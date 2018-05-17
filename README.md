@@ -2,9 +2,13 @@
 
 This is a D3 playground based on Webpack. It comes with support for:
 
-* next generation JavaScript/ECMAScript with Babel
-* SASS-based stylesheet
-* hot-reloading development server
+* next generation JavaScript/ECMAScript with [Babel](https://babeljs.io/)
+* [Sass](http://sass-lang.com/)-based stylesheet
+* hot-reloading [Webpack](https://webpack.js.org/) development server
+
+## Requirements
+
+You need to have a current version of [node.js with npm](https://nodejs.org/en/) installed.
 
 ## Setup
 
