@@ -43,7 +43,8 @@ module.exports = {
       d3: "d3"
     }),
     new HtmlWebpackPlugin({
-      title: "D3 Webpack Starterkit"
+      title: "D3 Webpack Starterkit",
+      template: "./src/index.html"
     })
   ],
   devtool: "#cheap-module-source-map",
