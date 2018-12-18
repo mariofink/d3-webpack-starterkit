@@ -1,5 +1,7 @@
 # D3 Webpack Starterkit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mariofink/d3-webpack-starterkit.svg)](https://greenkeeper.io/)
+
 This is a D3 playground based on Webpack. It comes with support for:
 
 * next generation JavaScript/ECMAScript with [Babel](https://babeljs.io/)
